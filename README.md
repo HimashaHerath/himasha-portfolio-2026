@@ -1,50 +1,50 @@
 # Himasha Portfolio 2026
 
-Personal portfolio for Himasha Herath, built with Next.js and Tailwind CSS, featuring smooth animations and dark/light theme support.
+Personal portfolio for Himasha Herath, built with Next.js App Router and Tailwind CSS. Content lives in a single JSON file for quick customization.
 
-## ✨ Features
+## ✨ Highlights
 
-- **Minimalist Design** - Clean typography with Geist font and strategic use of whitespace
-- **Responsive Layout** - Mobile-first design that works on all devices
-- **Theme Toggle** - Seamless dark/light mode switching
-- **Smooth Animations** - Subtle scroll-triggered animations and hover effects
-- **Modern Stack** - Built with Next.js 15, TypeScript, and Tailwind CSS
+- JSON-driven content (`data/portfolio.json`)
+- Smooth section navigation and scroll-triggered reveals
+- Responsive layout with dark/light toggle
+- Custom SVG app icon (`app/icon.svg`)
 
-## 🚀 Built With
+## 🧰 Stack
 
-- [Next.js](https://nextjs.org/) - React framework
-- [TypeScript](https://www.typescriptlang.org/) - Type safety
-- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- Next.js 15 (App Router)
+- React 19
+- Tailwind CSS 4
+- TypeScript
 
-## 📦 Getting Started
+## 🚀 Getting Started
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone https://github.com/HimashaHerath/himasha-portfolio-2026.git
+cd himasha-portfolio-2026
 
 # Install dependencies
-npm install
+pnpm install
 
 # Run development server
+pnpm dev
+```
+
+Optional (npm):
+
+```bash
+npm install
 npm run dev
-\`\`\`
+```
 
 Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
 ## 🎨 Customization
 
-The portfolio is designed to be easily customizable:
-
-- Update personal information in `data/portfolio.json`
-- Update site metadata (title/description) in `data/portfolio.json`
-- Modify colors and styling in `app/globals.css`
-- Replace the site icon in `app/icon.svg`
-- Add or remove sections as needed
+- Update content and metadata in `data/portfolio.json`
+- Adjust colors and styling in `app/globals.css`
+- Replace the favicon in `app/icon.svg`
 
 ## 📄 License
 
-Open source and available under the [MIT License](LICENSE).
-
----
-
-**Built by Himasha Herath**
+© 2026 Himasha Herath. All rights reserved.
