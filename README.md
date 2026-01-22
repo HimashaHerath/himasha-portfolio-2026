@@ -1,0 +1,50 @@
+# Himasha Portfolio 2026
+
+Personal portfolio for Himasha Herath, built with Next.js and Tailwind CSS, featuring smooth animations and dark/light theme support.
+
+## ✨ Features
+
+- **Minimalist Design** - Clean typography with Geist font and strategic use of whitespace
+- **Responsive Layout** - Mobile-first design that works on all devices
+- **Theme Toggle** - Seamless dark/light mode switching
+- **Smooth Animations** - Subtle scroll-triggered animations and hover effects
+- **Modern Stack** - Built with Next.js 15, TypeScript, and Tailwind CSS
+
+## 🚀 Built With
+
+- [Next.js](https://nextjs.org/) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - Type safety
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+
+## 📦 Getting Started
+
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/HimashaHerath/himasha-portfolio-2026.git
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+\`\`\`
+
+Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
+
+## 🎨 Customization
+
+The portfolio is designed to be easily customizable:
+
+- Update personal information in `data/portfolio.json`
+- Update site metadata (title/description) in `data/portfolio.json`
+- Modify colors and styling in `app/globals.css`
+- Replace the site icon in `app/icon.svg`
+- Add or remove sections as needed
+
+## 📄 License
+
+Open source and available under the [MIT License](LICENSE).
+
+---
+
+**Built by Himasha Herath**

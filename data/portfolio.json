@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "Himasha Herath - Full-Stack Software Engineer",
+    "description": "Full-Stack Software Engineer building headless e-commerce platforms and automation systems. Expertise in Next.js, Vendure, and n8n workflows."
+  },
+  "navigation": [
+    { "id": "intro", "label": "Intro" },
+    { "id": "work", "label": "Work" },
+    { "id": "projects", "label": "Projects" },
+    { "id": "skills", "label": "Skills" },
+    { "id": "connect", "label": "Connect" }
+  ],
+  "hero": {
+    "eyebrow": "PORTFOLIO / 2026",
+    "firstName": "Himasha",
+    "lastName": "Herath",
+    "headline": [
+      { "text": "Full-Stack Software Engineer building ", "emphasis": false },
+      { "text": "headless e-commerce", "emphasis": true },
+      { "text": " and ", "emphasis": false },
+      { "text": "automation systems", "emphasis": true },
+      { "text": " at the intersection of ", "emphasis": false },
+      { "text": "engineering", "emphasis": true },
+      { "text": " and ", "emphasis": false },
+      { "text": "product", "emphasis": true },
+      { "text": ".", "emphasis": false }
+    ],
+    "availability": {
+      "status": "Available for work",
+      "location": "Colombo, Sri Lanka",
+      "mode": "Remote / Hybrid"
+    }
+  },
+  "current": {
+    "label": "CURRENTLY",
+    "role": "Co-Founder & CTO",
+    "company": "@ CLOUZE",
+    "range": "2026 — Present"
+  },
+  "focus": {
+    "label": "FOCUS",
+    "items": ["Next.js", "React", "Vendure", "n8n", "Docker"]
+  },
+  "education": {
+    "label": "EDUCATION",
+    "items": [
+      {
+        "degree": "BEng (Hons) Software Engineering",
+        "institution": "IIT / University of Westminster",
+        "range": "2021 — 2026"
+      },
+      {
+        "degree": "Foundation in IT",
+        "institution": "Informatics Institute of Technology",
+        "range": "2020 — 2021"
+      }
+    ]
+  },
+  "experience": {
+    "label": "Experience",
+    "range": "2024 — 2026",
+    "items": [
+      {
+        "year": "2026",
+        "role": "Co-Founder & CTO",
+        "company": "CLOUZE",
+        "location": "Sri Lanka (Hybrid)",
+        "description": "Led end-to-end product and engineering for a headless e-commerce platform, from UI/UX through full-stack implementation to deployment.",
+        "tech": ["Next.js", "React", "Vendure", "Docker"]
+      },
+      {
+        "year": "2024",
+        "role": "Full Stack Developer",
+        "company": "Outer Aspect IP Ltd",
+        "location": "Auckland, NZ (Remote)",
+        "description": "Delivered client-facing web experiences and implemented integrations and internal APIs to connect systems and automate workflows.",
+        "tech": ["Next.js", "React", "Python", "Flask"]
+      },
+      {
+        "year": "2024",
+        "role": "Software Engineering Intern",
+        "company": "Limark Technologies",
+        "location": "Sri Lanka (Hybrid)",
+        "description": "Contributed to full-stack development and was promoted to trainer role during the internship experience.",
+        "tech": ["React", "Next.js", "Spring Boot", "Java"]
+      }
+    ]
+  },
+  "projects": {
+    "label": "Projects",
+    "tagline": "BUILDING & SHIPPING",
+    "items": [
+      {
+        "name": "CLOUZE",
+        "type": "Headless E-commerce Platform",
+        "description": "End-to-end e-commerce solution with Next.js storefront and Vendure backend. Full ownership from UI/UX to production operations.",
+        "status": "Active",
+        "tech": ["Next.js", "Vendure", "Docker"]
+      },
+      {
+        "name": "Infrasurge",
+        "type": "Automation & Ops Systems",
+        "description": "n8n workflow systems including Universal Leads Inbox and Client Onboarding Autopilot for operational efficiency.",
+        "status": "Ongoing",
+        "tech": ["n8n", "APIs", "Webhooks"]
+      },
+      {
+        "name": "Invox",
+        "type": "Invoice Generator",
+        "description": "Invoice generator with PDF templates, storage workflow, and customer-facing UX for streamlined billing.",
+        "status": "Building",
+        "tech": ["PDF", "MinIO", "Templates"]
+      },
+      {
+        "name": "Rivalwatch",
+        "type": "Micro-SaaS",
+        "description": "Competitor price and stock tracking tool for indie e-commerce merchants with scheduled alerts and dashboards.",
+        "status": "Idea",
+        "tech": ["Scraping", "Alerts", "Dashboard"]
+      }
+    ]
+  },
+  "skills": {
+    "label": "Skills & Tools",
+    "categories": [
+      { "label": "Frontend", "items": ["Next.js", "React", "TypeScript"] },
+      { "label": "Backend", "items": ["Vendure", "Python/Flask", "Spring Boot"] },
+      { "label": "Automation", "items": ["n8n", "Webhooks", "APIs"] },
+      { "label": "DevOps", "items": ["Docker", "VPS", "CI/CD", "Caddy"] }
+    ]
+  },
+  "connect": {
+    "label": "Let's Connect",
+    "description": "Always interested in new opportunities, collaborations, and conversations about e-commerce, automation, and building products.",
+    "email": "hello@infrasurge.com",
+    "emailLabel": "hello@infrasurge.com",
+    "elsewhereLabel": "ELSEWHERE",
+    "socials": [
+      { "name": "GitHub", "handle": "@himashaherath", "url": "https://github.com/himashaherath" },
+      { "name": "LinkedIn", "handle": "himasha-herath", "url": "https://linkedin.com/in/himasha-herath" },
+      { "name": "Twitter", "handle": "@himasha_herath", "url": "https://twitter.com/himasha_herath" }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Himasha Herath. All rights reserved.",
+    "tagline": "Full-Stack Engineer • Colombo, Sri Lanka"
+  }
+}
